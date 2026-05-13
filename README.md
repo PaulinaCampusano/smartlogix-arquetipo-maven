@@ -1,0 +1,1 @@
+# smartlogix-arquetipo-maven
